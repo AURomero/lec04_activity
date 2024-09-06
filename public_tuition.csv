@@ -1,0 +1,574 @@
+Name,State,Type,Tuition_out
+University of Michigan-Ann Arbor,MI,Public,47476
+University of Virginia-Main Campus,VA,Public,47273
+Virginia Military Institute,VA,Public,43902
+College of William and Mary,VA,Public,43670
+University of California-Santa Barbara,CA,Public,42465
+University of California-Davis,CA,Public,42433
+University of California-Berkeley,CA,Public,42184
+University of California-Santa Cruz,CA,Public,42034
+University of California-San Diego,CA,Public,42032
+University of California-Riverside,CA,Public,41931
+University of California-Irvine,CA,Public,41752
+University of California-Merced,CA,Public,41612
+University of Vermont,VT,Public,41356
+University of California-Los Angeles,CA,Public,41275
+Michigan State University,MI,Public,39406
+Colorado School of Mines,CO,Public,37436
+University of Connecticut,CT,Public,36948
+The University of Texas at Austin,TX,Public,36744
+Texas A & M University-College Station,TX,Public,36606
+University of Colorado Boulder,CO,Public,36220
+Clemson University,SC,Public,36058
+University of Washington-Tacoma Campus,WA,Public,35610
+University of Washington-Seattle Campus,WA,Public,35538
+University of Washington-Bothell Campus,WA,Public,35475
+University of Arizona,AZ,Public,35307
+University of Connecticut-Stamford,CT,Public,34916
+University of Connecticut-Waterbury Campus,CT,Public,34906
+University of Connecticut-Avery Point,CT,Public,34906
+University of Connecticut-Hartford Campus,CT,Public,34896
+Indiana University-Bloomington,IN,Public,34845
+University of Wisconsin-Madison,WI,Public,34783
+University of Oregon,OR,Public,34611
+University of North Carolina at Chapel Hill,NC,Public,34588
+Massachusetts College of Art and Design,MA,Public,34400
+George Mason University,VA,Public,34370
+Miami University-Oxford,OH,Public,34211
+Citadel Military College of South Carolina,SC,Public,33819
+University of Hawaii at Manoa,HI,Public,33786
+Pennsylvania State University-Main Campus,PA,Public,33664
+Virginia Commonwealth University,VA,Public,33656
+University of Maryland-College Park,MD,Public,33606
+University of Massachusetts-Amherst,MA,Public,33477
+University of Delaware,DE,Public,33150
+Georgia Institute of Technology-Main Campus,GA,Public,33014
+University of Massachusetts-Boston,MA,Public,32985
+University of New Hampshire-Main Campus,NH,Public,32637
+Michigan Technological University,MI,Public,32318
+University of South Carolina-Columbia,SC,Public,31962
+New Jersey Institute of Technology,NJ,Public,31918
+University of Massachusetts-Lowell,MA,Public,31865
+The University of Tennessee-Knoxville,TN,Public,31390
+University of Illinois at Urbana-Champaign,IL,Public,31194
+Virginia Polytechnic Institute and State University,VA,Public,31014
+College of Charleston,SC,Public,30810
+University of Pittsburgh-Pittsburgh Campus,PA,Public,30642
+University of Iowa,IA,Public,30609
+Rutgers University-New Brunswick,NJ,Public,30579
+University of Georgia,GA,Public,30392
+University of Maine,ME,Public,30282
+University of Rhode Island,RI,Public,30042
+Rutgers University-Newark,NJ,Public,30026
+St. Mary's College of Maryland,MD,Public,29948
+New College of Florida,FL,Public,29944
+Rutgers University-Camden,NJ,Public,29924
+Indiana University-Purdue University-Indianapolis,IN,Public,29806
+Ohio State University-Main Campus,OH,Public,29696
+The University of Texas at Dallas,TX,Public,29656
+Auburn University,AL,Public,29640
+Oregon State University,OR,Public,29457
+University of New Hampshire at Manchester,NH,Public,29420
+Eastern Michigan University,MI,Public,29200
+Winthrop University,SC,Public,29136
+Colorado State University-Fort Collins,CO,Public,28903
+Purdue University-Main Campus,IN,Public,28794
+Oregon State University-Cascades Campus,OR,Public,28749
+University of Florida,FL,Public,28659
+Temple University,PA,Public,28418
+Oregon Institute of Technology,OR,Public,28367
+University of Massachusetts-Dartmouth,MA,Public,28285
+University of Utah,UT,Public,28127
+Southern Illinois University-Carbondale,IL,Public,28107
+The University of Alabama,AL,Public,28100
+Georgia College & State University,GA,Public,28060
+Louisiana State University and Agricultural & Mechanical College,LA,Public,28051
+University of Kentucky,KY,Public,28046
+Old Dominion University,VA,Public,27900
+Longwood University,VA,Public,27660
+The College of New Jersey,NJ,Public,27578
+Castleton University,VT,Public,27522
+North Carolina State University at Raleigh,NC,Public,27406
+University of Mary Washington,VA,Public,27374
+Arizona State University-Tempe,AZ,Public,27372
+Arizona State University-Downtown Phoenix,AZ,Public,27372
+University of Cincinnati-Main Campus,OH,Public,27334
+James Madison University,VA,Public,27230
+Wayne State University,MI,Public,27203
+University at Buffalo,NY,Public,27068
+The University of Virginia's College at Wise,VA,Public,27055
+University of Oklahoma-Norman Campus,OK,Public,26919
+Stony Brook University,NY,Public,26767
+Maine Maritime Academy,ME,Public,26628
+University of Minnesota-Twin Cities,MN,Public,26603
+University of Kansas,KS,Public,26592
+University of Illinois at Chicago,IL,Public,26560
+University of Missouri-Columbia,MO,Public,26506
+East Tennessee State University,TN,Public,26463
+Middle Tennessee State University,TN,Public,26348
+University of Louisville,KY,Public,26286
+Portland State University,OR,Public,26130
+Arizona State University-West,AZ,Public,26038
+Arizona State University-Polytechnic,AZ,Public,26038
+Ball State University,IN,Public,25942
+Missouri University of Science and Technology,MO,Public,25918
+Coastal Carolina University,SC,Public,25872
+Christopher Newport University,VA,Public,25850
+Massachusetts Maritime Academy,MA,Public,25824
+Washington State University,WA,Public,25817
+University of Maryland-Baltimore County,MD,Public,25654
+Western Oregon University,OR,Public,25653
+Colorado State University-Pueblo,CO,Public,25547
+Western Kentucky University,KY,Public,25512
+University of Missouri-St Louis,MO,Public,25505
+Kansas State University,KS,Public,25492
+University of Colorado Denver/Anschutz Medical Campus,CO,Public,25259
+Illinois State University,IL,Public,25168
+Florida Gulf Coast University,FL,Public,25162
+The University of Texas at Arlington,TX,Public,25152
+University of Pittsburgh-Bradford,PA,Public,25144
+University of Pittsburgh-Johnstown,PA,Public,25120
+University of Pittsburgh-Greensburg,PA,Public,25114
+University of North Carolina School of the Arts,NC,Public,25081
+The Evergreen State College,WA,Public,25051
+University of Montevallo,AL,Public,25030
+The University of Montana,MT,Public,24943
+Northern Arizona University,AZ,Public,24841
+The University of Tennessee-Chattanooga,TN,Public,24782
+University of Michigan-Dearborn,MI,Public,24706
+Northern Vermont University,VT,Public,24690
+Southern Illinois University-Edwardsville,IL,Public,24651
+Southern Oregon University,OR,Public,24630
+Binghamton University,NY,Public,24403
+Tennessee Technological University,TN,Public,24377
+SUNY at Albany,NY,Public,24370
+University of Arkansas,AR,Public,24308
+University of Nebraska-Lincoln,NE,Public,24098
+Montana State University,MT,Public,24071
+Georgia State University,GA,Public,23971
+Lyndon State College,VT,Public,23898
+Oakland University,MI,Public,23873
+University of North Carolina at Asheville,NC,Public,23868
+Eastern Washington University,WA,Public,23862
+Murray State University,KY,Public,23820
+Northern Illinois University,IL,Public,23816
+University of Idaho,ID,Public,23812
+Oklahoma State University-Main Campus,OK,Public,23776
+Pennsylvania State University-Penn State Erie-Behrend College,PA,Public,23692
+Pennsylvania State University-Penn State Altoona,PA,Public,23692
+Pennsylvania State University-Penn State Berks,PA,Public,23692
+Pennsylvania State University-Penn State Harrisburg,PA,Public,23692
+Central Michigan University,MI,Public,23670
+University of Louisiana at Lafayette,LA,Public,23616
+West Virginia University,WV,Public,23616
+Eastern Connecticut State University,CT,Public,23608
+Augusta University,GA,Public,23606
+University of Mississippi,MS,Public,23564
+Prairie View A & M University,TX,Public,23488
+East Carolina University,NC,Public,23420
+Southern Connecticut State University,CT,Public,23226
+Ramapo College of New Jersey,NJ,Public,23214
+Austin Peay State University,TN,Public,23153
+Western Connecticut State University,CT,Public,23107
+Saginaw Valley State University,MI,Public,23063
+Central Connecticut State University,CT,Public,22914
+University of South Carolina-Upstate,SC,Public,22848
+Radford University,VA,Public,22709
+Western Washington University,WA,Public,22695
+Boise State University,ID,Public,22642
+Keene State College,NH,Public,22614
+Pennsylvania State University-Penn State Abington,PA,Public,22558
+Iowa State University,IA,Public,22472
+University of Central Florida,FL,Public,22467
+University of North Carolina at Greensboro,NC,Public,22409
+Pennsylvania State University-Penn State Scranton,PA,Public,22378
+Pennsylvania State University-Penn State Lehigh Valley,PA,Public,22378
+Pennsylvania State University-Penn State Brandywine,PA,Public,22378
+Pennsylvania State University-Penn State Hazleton,PA,Public,22378
+Pennsylvania State University-Penn State York,PA,Public,22378
+Mississippi State University,MS,Public,22358
+Pennsylvania State University-Penn State Schuylkill,PA,Public,22316
+Frostburg State University,MD,Public,22262
+Plymouth State University,NH,Public,22230
+Towson University,MD,Public,22140
+Appalachian State University,NC,Public,22109
+Texas A & M University-Kingsville,TX,Public,22102
+University of Houston,TX,Public,22066
+University of New Mexico-Main Campus,NM,Public,22038
+Central Washington University,WA,Public,22010
+Mansfield University of Pennsylvania,PA,Public,22008
+Bloomsburg University of Pennsylvania,PA,Public,21980
+Montana Technological University,MT,Public,21956
+Idaho State University,ID,Public,21942
+Rowan University,NJ,Public,21890
+University of Nevada-Las Vegas,NV,Public,21853
+University of Nevada-Reno,NV,Public,21788
+East Stroudsburg University of Pennsylvania,PA,Public,21778
+Texas Southern University,TX,Public,21623
+Texas State University,TX,Public,21605
+The University of Texas at El Paso,TX,Public,21596
+West Chester University of Pennsylvania,PA,Public,21591
+Millersville University of Pennsylvania,PA,Public,21560
+Utah State University,UT,Public,21520
+University of Alabama in Huntsville,AL,Public,21480
+University of South Carolina-Beaufort,SC,Public,21423
+Ohio University-Main Campus,OH,Public,21360
+Pennsylvania State University-Penn State New Kensington,PA,Public,21328
+Pennsylvania State University-Penn State Beaver,PA,Public,21328
+Pennsylvania State University-Penn State Greater Allegheny,PA,Public,21328
+California Polytechnic State University-San Luis Obispo,CA,Public,21312
+Lander University,SC,Public,21300
+Rhode Island College,RI,Public,21289
+Western State Colorado University,CO,Public,21274
+Pennsylvania State University-Penn State Fayette- Eberly,PA,Public,21266
+University of Arkansas at Little Rock,AR,Public,21208
+Pennsylvania State University-Penn State Wilkes-Barre,PA,Public,21202
+University of Michigan-Flint,MI,Public,21165
+Governors State University,IL,Public,21136
+University of Northern Colorado,CO,Public,21132
+Tennessee State University,TN,Public,21132
+South Carolina State University,SC,Public,21120
+University of North Carolina Wilmington,NC,Public,21065
+New Jersey City University,NJ,Public,21051
+University of Memphis,TN,Public,21029
+New Mexico State University-Main Campus,NM,Public,21022
+New Mexico Institute of Mining and Technology,NM,Public,20991
+University of Illinois at Springfield,IL,Public,20938
+Francis Marion University,SC,Public,20918
+Texas A & M University-Commerce,TX,Public,20884
+The University of Texas at Tyler,TX,Public,20872
+University of Wisconsin-Milwaukee,WI,Public,20844
+Pennsylvania State University-Penn State Shenango,PA,Public,20810
+University of North Florida,FL,Public,20798
+University of Baltimore,MD,Public,20704
+University of South Carolina-Aiken,SC,Public,20702
+North Dakota State University-Main Campus,ND,Public,20692
+Southeastern Louisiana University,LA,Public,20631
+University of Hawaii at Hilo,HI,Public,20608
+University of Southern Maine,ME,Public,20594
+University of Louisiana at Monroe,LA,Public,20570
+Montclair State University,NJ,Public,20567
+Sul Ross State University,TX,Public,20522
+University of North Texas,TX,Public,20504
+Norfolk State University,VA,Public,20478
+Adams State University,CO,Public,20456
+Texas A&M University-San Antonio,TX,Public,20404
+University of Hawaii-West Oahu,HI,Public,20400
+Stockton University,NJ,Public,20357
+Colorado Mesa University,CO,Public,20330
+Louisiana State University-Shreveport,LA,Public,20320
+University of Nebraska at Omaha,NE,Public,20320
+Southern Utah University,UT,Public,20288
+University of North Carolina at Charlotte,NC,Public,20266
+Shippensburg University of Pennsylvania,PA,Public,20186
+Metropolitan State University of Denver,CO,Public,20149
+University of North Texas at Dallas,TX,Public,20088
+Lock Haven University,PA,Public,20056
+University of North Dakota,ND,Public,20047
+Purdue University Fort Wayne,IN,Public,20005
+Emporia State University,KS,Public,19918
+University of Missouri-Kansas City,MO,Public,19793
+Northeastern Illinois University,IL,Public,19792
+Fort Valley State University,GA,Public,19738
+Eastern Oregon University,OR,Public,19682
+William Paterson University of New Jersey,NJ,Public,19654
+Kentucky State University,KY,Public,19638
+Sonoma State University,CA,Public,19604
+San Jose State University,CA,Public,19601
+Virginia State University,VA,Public,19572
+University of Alaska Southeast,AK,Public,19533
+California State University-San Marcos,CA,Public,19533
+University of Colorado Colorado Springs,CO,Public,19498
+University of Alaska Anchorage,AK,Public,19494
+Indiana State University,IN,Public,19452
+North Carolina A & T State University,NC,Public,19416
+Alabama State University,AL,Public,19396
+Humboldt State University,CA,Public,19373
+San Diego State University,CA,Public,19340
+University of Maine at Machias,ME,Public,19320
+University of Houston-Clear Lake,TX,Public,19270
+The University of West Florida,FL,Public,19241
+University of Northern Iowa,IA,Public,19241
+California State University-Chico,CA,Public,19228
+California State Polytechnic University-Pomona,CA,Public,19219
+University of Alaska Fairbanks,AK,Public,19183
+The University of Texas at San Antonio,TX,Public,19168
+San Francisco State University,CA,Public,19134
+North Carolina Central University,NC,Public,19106
+Northern Kentucky University,KY,Public,19104
+California State University-Sacramento,CA,Public,19084
+Massachusetts College of Liberal Arts,MA,Public,19080
+Indiana University-Kokomo,IN,Public,19038
+Indiana University-South Bend,IN,Public,19038
+Indiana University-Northwest,IN,Public,19038
+Indiana University-Southeast,IN,Public,19038
+Indiana University-East,IN,Public,19038
+University of Alabama at Birmingham,AL,Public,19032
+California State University-Bakersfield,CA,Public,19027
+University of Maine at Farmington,ME,Public,19026
+Kean University,NJ,Public,19009
+Florida International University,FL,Public,18954
+California State University Maritime Academy,CA,Public,18936
+Texas A & M University-Corpus Christi,TX,Public,18925
+California State University-Monterey Bay,CA,Public,18923
+California State University-Stanislaus,CA,Public,18918
+University of Toledo,OH,Public,18885
+University of Akron Main Campus,OH,Public,18801
+Florida State University,FL,Public,18786
+California State University-San Bernardino,CA,Public,18765
+Fort Lewis College,CO,Public,18761
+California State University-Northridge,CA,Public,18755
+California State University-Fullerton,CA,Public,18730
+Montana State University Billings,MT,Public,18723
+California State University-Dominguez Hills,CA,Public,18717
+California State University-East Bay,CA,Public,18714
+Northwestern State University of Louisiana,LA,Public,18710
+California State University-Channel Islands,CA,Public,18697
+Bowie State University,MD,Public,18653
+Texas Tech University,TX,Public,18652
+University of Southern Indiana,IN,Public,18626
+Salisbury University,MD,Public,18622
+California State University-Long Beach,CA,Public,18610
+Bowling Green State University-Main Campus,OH,Public,18593
+Ferris State University,MI,Public,18588
+Louisiana Tech University,LA,Public,18558
+Kent State University at Kent,OH,Public,18544
+California State University-Los Angeles,CA,Public,18519
+California State University-Fresno,CA,Public,18465
+University of Minnesota-Duluth,MN,Public,18462
+Lewis-Clark State College,ID,Public,18410
+Cheyney University of Pennsylvania,PA,Public,18386
+Texas A&M University-Texarkana,TX,Public,18375
+Jackson State University,MS,Public,18314
+Lamar University,TX,Public,18274
+Eastern Kentucky University,KY,Public,18250
+Alabama A & M University,AL,Public,18236
+SUNY College of Environmental Science and Forestry,NY,Public,18193
+Montana State University-Northern,MT,Public,18171
+Mississippi University for Women,MS,Public,18155
+Pittsburg State University,KS,Public,18152
+SUNY at Purchase College,NY,Public,18148
+Elizabeth City State University,NC,Public,18130
+Southern University and A & M College,LA,Public,18080
+University of Maryland Eastern Shore,MD,Public,18048
+SUNY College at Geneseo,NY,Public,18026
+Sam Houston State University,TX,Public,18022
+SUNY Cortland,NY,Public,17950
+SUNY at Fredonia,NY,Public,17936
+Washburn University,KS,Public,17918
+SUNY College at Potsdam,NY,Public,17871
+Shepherd University,WV,Public,17869
+Marshall University,WV,Public,17856
+SUNY College at Oswego,NY,Public,17841
+Morgan State University,MD,Public,17832
+SUNY Oneonta,NY,Public,17816
+SUNY College at Brockport,NY,Public,17804
+SUNY College at Plattsburgh,NY,Public,17798
+SUNY College of Agriculture and Technology at Cobleskill,NY,Public,17789
+University of Wisconsin-La Crosse,WI,Public,17765
+University of Houston-Victoria,TX,Public,17750
+Farmingdale State College,NY,Public,17726
+Florida Agricultural and Mechanical University,FL,Public,17725
+SUNY Maritime College,NY,Public,17724
+Stephen F Austin State University,TX,Public,17676
+SUNY Polytechnic Institute,NY,Public,17648
+SUNY Buffalo State,NY,Public,17626
+State University of New York at New Paltz,NY,Public,17625
+University of North Carolina at Pembroke,NC,Public,17605
+University of Science and Arts of Oklahoma,OK,Public,17550
+The University of Texas Rio Grande Valley,TX,Public,17547
+SUNY College at Old Westbury,NY,Public,17533
+University of Maine at Augusta,ME,Public,17498
+University of Central Oklahoma,OK,Public,17447
+Texas Woman's University,TX,Public,17446
+University of Wisconsin-Stout,WI,Public,17423
+Texas A & M International University,TX,Public,17411
+Wichita State University,KS,Public,17390
+Kennesaw State University,GA,Public,17329
+University of South Florida-Main Campus,FL,Public,17324
+Western Carolina University,NC,Public,17290
+Florida Atlantic University,FL,Public,17276
+Indiana University of Pennsylvania-Main Campus,PA,Public,17271
+Chicago State University,IL,Public,17212
+Valdosta State University,GA,Public,17196
+Angelo State University,TX,Public,17161
+Lincoln University,PA,Public,17151
+Georgia Southern University,GA,Public,17142
+Auburn University at Montgomery,AL,Public,17140
+Purdue University Northwest,IN,Public,17129
+Tarleton State University,TX,Public,17111
+Wright State University-Main Campus,OH,Public,17098
+Grand Valley State University,MI,Public,17064
+University of West Georgia,GA,Public,17010
+Columbus State University,GA,Public,16920
+Delaware State University,DE,Public,16904
+SUNY Empire State College,NY,Public,16835
+University of Wyoming,WY,Public,16827
+University of West Alabama,AL,Public,16818
+Concord University,WV,Public,16812
+Fayetteville State University,NC,Public,16791
+University of Wisconsin-Eau Claire,WI,Public,16736
+University of South Florida-St Petersburg,FL,Public,16735
+Grambling State University,LA,Public,16733
+The University of Montana-Western,MT,Public,16716
+Salem State University,MA,Public,16706
+Nevada State College,NV,Public,16688
+University of Florida-Online,FL,Public,16580
+Valley City State University,ND,Public,16579
+Glenville State College,WV,Public,16560
+West Virginia State University,WV,Public,16550
+University of South Florida-Sarasota-Manatee,FL,Public,16501
+University of Wisconsin-Stevens Point,WI,Public,16476
+Saint Cloud State University,MN,Public,16462
+University of Houston-Downtown,TX,Public,16430
+Georgia Gwinnett College,GA,Public,16348
+Troy University,AL,Public,16276
+Fitchburg State University,MA,Public,16235
+University of Wisconsin-Whitewater,WI,Public,16235
+Minnesota State University-Mankato,MN,Public,16216
+Savannah State University,GA,Public,16204
+Winston-Salem State University,NC,Public,16188
+Bridgewater State University,MA,Public,16152
+Utah Valley University,UT,Public,16066
+Framingham State University,MA,Public,16000
+McNeese State University,LA,Public,15958
+Armstrong State University,GA,Public,15900
+Clayton  State University,GA,Public,15880
+Minnesota State University Moorhead,MN,Public,15878
+Georgia Southwestern State University,GA,Public,15802
+Westfield State University,MA,Public,15795
+Northern Michigan University,MI,Public,15736
+University of Wisconsin-Green Bay,WI,Public,15728
+East Central University,OK,Public,15720
+Arizona State University-Skysong,AZ,Public,15691
+University of Wisconsin-Superior,WI,Public,15682
+Clarion University of Pennsylvania,PA,Public,15636
+Worcester State University,MA,Public,15612
+University of Wisconsin-River Falls,WI,Public,15586
+Jacksonville State University,AL,Public,15582
+Cameron University,OK,Public,15510
+Southeastern Oklahoma State University,OK,Public,15390
+University of Wisconsin-Platteville,WI,Public,15386
+University of Wisconsin-Parkside,WI,Public,15378
+California University of Pennsylvania,PA,Public,15326
+University of South Alabama,AL,Public,15324
+Southern University at New Orleans,LA,Public,15322
+Winona State University,MN,Public,15302
+Weber State University,UT,Public,15260
+Miami University-Hamilton,OH,Public,15228
+Miami University-Middletown,OH,Public,15228
+Rogers State University,OK,Public,15210
+University of Wisconsin-Oshkosh,WI,Public,15160
+University of North Alabama,AL,Public,15128
+University of Minnesota-Morris,MN,Public,15092
+University of Central Arkansas,AR,Public,15047
+West Liberty University,WV,Public,15020
+The University of Tennessee-Martin,TN,Public,14996
+Metropolitan State University,MN,Public,14960
+Fort Hays State University,KS,Public,14832
+Arkansas State University-Main Campus,AR,Public,14778
+Missouri State University-Springfield,MO,Public,14746
+Western Michigan University,MI,Public,14699
+Edinboro University of Pennsylvania,PA,Public,14668
+Fairmont State University,WV,Public,14666
+South Dakota School of Mines and Technology,SD,Public,14580
+CUNY Queens College,NY,Public,14528
+University of the Virgin Islands,VI,Public,14496
+College of Staten Island CUNY,NY,Public,14480
+CUNY John Jay College of Criminal Justice,NY,Public,14460
+CUNY Bernard M Baruch College,NY,Public,14452
+Truman State University,MO,Public,14440
+CUNY Brooklyn College,NY,Public,14430
+CUNY Lehman College,NY,Public,14400
+CUNY Hunter College,NY,Public,14372
+CUNY York College,NY,Public,14348
+CUNY City College,NY,Public,14330
+Wright State University-Lake Campus,OH,Public,14210
+Slippery Rock University of Pennsylvania,PA,Public,14193
+Northwestern Oklahoma State University,OK,Public,14183
+Lincoln University,MO,Public,14172
+University of Central Missouri,MO,Public,14150
+Louisiana State University-Alexandria,LA,Public,14024
+Northeastern State University,OK,Public,14022
+Pennsylvania State University-World Campus,PA,Public,13988
+Kutztown University of Pennsylvania,PA,Public,13975
+Southwestern Oklahoma State University,OK,Public,13905
+Eastern Illinois University,IL,Public,13868
+Cleveland State University,OH,Public,13829
+University of Arkansas at Pine Bluff,AR,Public,13738
+Coppin State University,MD,Public,13622
+Western New Mexico University,NM,Public,13539
+Missouri Western State University,MO,Public,13465
+Morehead State University,KY,Public,13426
+University of Minnesota-Rochester,MN,Public,13352
+University of New Orleans,LA,Public,13320
+Langston University,OK,Public,13286
+Shawnee State University,OH,Public,13247
+University of Nebraska at Kearney,NE,Public,13194
+Bluefield State College,WV,Public,13032
+Northwest Missouri State University,MO,Public,12908
+Western Illinois University,IL,Public,12897
+University of North Georgia,GA,Public,12834
+Southeast Missouri State University,MO,Public,12720
+University of Arkansas-Fort Smith,AR,Public,12650
+Dalton State College,GA,Public,12634
+University of Guam,GU,Public,12634
+Arkansas Tech University,AR,Public,12528
+University of Maryland-University College,MD,Public,12336
+SUNY College of Technology at Canton,NY,Public,12320
+Southern Arkansas University Main Campus,AR,Public,12156
+University of the District of Columbia,DC,Public,12092
+Dakota State University,SD,Public,12077
+University of Maine at Fort Kent,ME,Public,12075
+University of South Dakota,SD,Public,12019
+University of Maine at Presque Isle,ME,Public,11995
+Wayne State College,NE,Public,11986
+University of Minnesota-Crookston,MN,Public,11814
+Eastern New Mexico University-Main Campus,NM,Public,11788
+South Dakota State University,SD,Public,11689
+Black Hills State University,SD,Public,11602
+Missouri Southern State University,MO,Public,11568
+Lake Superior State University,MI,Public,11427
+Northern State University,SD,Public,11210
+Middle Georgia State University,GA,Public,11092
+Midwestern State University,TX,Public,10644
+Charter Oak State College,CT,Public,10437
+University of Southern Mississippi,MS,Public,10218
+Henderson State University,AR,Public,10180
+Harris-Stowe State University,MO,Public,9973
+Thomas Edison State University,NJ,Public,9820
+New Mexico Highlands University,NM,Public,9288
+Dickinson State University,ND,Public,9226
+West Texas A & M University,TX,Public,9117
+Mayville State University,ND,Public,9084
+Nicholls State University,LA,Public,8979
+Youngstown State University,OH,Public,8811
+Bemidji State University,MN,Public,8677
+Southwest Minnesota State University,MN,Public,8610
+Granite State College,NH,Public,8505
+Central State University,OH,Public,8096
+Peru State College,NE,Public,7260
+Chadron State College,NE,Public,7152
+Alcorn State University,MS,Public,6888
+Delta State University,MS,Public,6859
+Minot State University,ND,Public,6810
+University of Wisconsin-Milwaukee Flex,WI,Public,6750
+The University of Texas of the Permian Basin,TX,Public,6622
+Mississippi Valley State University,MS,Public,6422
+Oklahoma Panhandle State University,OK,Public,6196
+University of Puerto Rico-Carolina,PR,Public,6190
+Escuela de Artes Plasticas y Diseno de Puerto Rico,PR,Public,5622
+Institute of American Indian and Alaska Native Culture and Arts Development,NM,Public,4960
+Florida Polytechnic University,FL,Public,4940
+University of Puerto Rico-Rio Piedras,PR,Public,4652
+University of Puerto Rico-Arecibo,PR,Public,4139
+University of Puerto Rico-Cayey,PR,Public,4138
+University of Puerto Rico-Humacao,PR,Public,4138
+University of Puerto Rico-Ponce,PR,Public,4138
+University of Puerto Rico-Bayamon,PR,Public,4105
+University of Puerto Rico-Mayaguez,PR,Public,4105
+University of Puerto Rico-Aguadilla,PR,Public,4070
+Conservatory of Music of Puerto Rico,PR,Public,3370
+Colegio Universitario de San Juan,PR,Public,2370
+United States Merchant Marine Academy,NY,Public,1020
+Haskell Indian Nations University,KS,Public,480

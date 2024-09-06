@@ -1,0 +1,63 @@
+---
+title: 'Stats 250: Lecture 04 Simulation Activity'
+author: "Instructional Team"
+date: "`r Sys.Date()`"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    toc_collapsed: true
+    theme: lumen
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+## Load Packages and Data Sets 
+
+The instructional team has created a package (called “stats250package”) that contains a plethora of helpful functions. In addition to this package, we will also be utilizing an external packages ("ggplot2"). Load these packages by running the following code chunk:
+
+```{r loadPackages}
+library(stats250package)
+library(ggplot2)
+```
+
+The `institution` data set contains information on all U.S. colleges and universities that offer bachelor's degrees. The `public` data set includes information exclusively on public institutions.
+
+Read in the data using the code chunk below. 
+
+```{r readData}
+institution <- read.csv("institution_region.csv")
+public <- read.csv("public_tuition.csv")
+
+```
+
+## Simulation Study 1 - Sample Proportions 
+
+Suppose we are not able to collect information for *every* college and university in the US (for one reason or another). Instead, we can only collect a subset - or *sample* - of universities and colleges. 
+
+The `randomSample()` function will draw a random sample of size `n` from the provided data set. The function requires the name of the data set and the size of the random sample that you wish to take (`n`). 
+
+Use the code chunk `region_sample` below to take a random sample of 8 institutions from the `institution` data set.  Follow along with the instructions on pages 04 to 06 of the coursepack. 
+
+```{r region_sample}
+sampleProportion(institution, institution$Region, n = 8, value = "Midwest", results = TRUE)
+```
+
+Rerun the `region_sample` code chunk to generate more random samples. After each run, record the sample proportion in the table on page 06 of the coursepack, and also plot the value on the graph provided on the same page.
+
+## Simulation Study 2 - Sample Means 
+
+Now, let's shift our focus to quantitative data. 
+
+Use the code chunk `tuition_sample` below to take a random sample of 10 institutions from the `tuition` data set, which contains all public 4-year institutions in the US.  Follow along with the instructions on pages 12 to 14 of the coursepack. 
+
+```{r tuition_sample}
+sampleMean(public, public$Tuition_out, n = 10, plot = FALSE)
+```
+
+Rerun the `tuition_sample` code chunk to generate more random samples. After each run, record the sample mean in the table on page 13 of the coursepack, and also plot the value on the graph provided on the same page.
+
+
